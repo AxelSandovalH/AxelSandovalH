@@ -5,19 +5,14 @@
 ## Mis intereses y habilidades
 
 - Lenguajes de programación: C, C++, Java, JavaScript, HTML, CSS, SQL, PHP.
-- Desarrollo web y móvil.
-- Proyectos de código abierto.
-- [Ejemplo de proyecto destacado](enlace a tu proyecto).
 
 ## Proyectos destacados
 
-- [Nombre del proyecto 1](enlace al proyecto 1): Breve descripción del proyecto.
-- [Nombre del proyecto 2](enlace al proyecto 2): Breve descripción del proyecto.
-- ...
+- [RetroStep](https://github.com/Paco-Taco/RetroStep): Proyecto universitario sobre almacen de inventario.
+
 
 ## Contacto
 
-- LinkedIn: [Enlace a tu perfil de LinkedIn].
-- Correo electrónico: [Tu dirección de correo electrónico].
+- Correo electrónico: axesan917@gmail.com.
 
 ¡No dudes en explorar mis proyectos y conectarte conmigo! Estoy emocionado por lo que el futuro tiene reservado en el mundo del desarrollo de software.
